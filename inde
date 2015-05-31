@@ -1,7 +1,0 @@
-<html>
-<body>
-<form action="a.php" method="post">
-  <input type="submit" value="Submit" />
-</form>
-</body>
-</html>
